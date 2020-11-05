@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TechugoAssignment</string>
+    <string name="please_wait">Please wait</string>
+    <string name="title_activity_fitness">FitnessActivity</string>
+    <string name="tab_text_1">Offers</string>
+    <string name="tab_text_2">Details</string>
+    <string name="title">Fitness &amp; Wellness</string>
+</resources>
